@@ -1,3 +1,10 @@
-OPENROUTER_API_KEY=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
-MODEL=deepseek/deepseek-chat-v3-0324
+OPENROUTER_API_KEY=sk-or-v1-ваш_ключ_здесь
+REASONING=false
+LANGUAGE=ru
+TEMPERATURE=0.7
+MAX_TOKENS=9999999
+SAVE_CHAT_HISTORY=true
+AUTO_LOAD_SETTINGS=true
 API_URL=https://openrouter.ai/api/v1/chat/completions
+APP_NAME=Gidik Guide
+CONFIG_VERSION=1.0
